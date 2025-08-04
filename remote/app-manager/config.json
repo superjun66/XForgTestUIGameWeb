@@ -1,0 +1,1 @@
+{"importBase":"import","nativeBase":"native","name":"app-manager","deps":[],"uuids":["98nPHPLuVDKY30ubPrMZby"],"paths":{"0":["api/ApiManager",0,1]},"scenes":{},"packs":{},"versions":{"import":[],"native":[]},"redirect":[],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.Prefab"]}

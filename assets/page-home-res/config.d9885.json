@@ -1,0 +1,129 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "page-home-res",
+    "deps": [],
+    "uuids": [
+        "08e4de53b",
+        "276279d5-c983-440e-b540-a156e1daeda9",
+        "276279d5-c983-440e-b540-a156e1daeda9@6c48a",
+        "276279d5-c983-440e-b540-a156e1daeda9@f9941",
+        "b13ef2b7-c9c8-463f-b6be-d03cda855806",
+        "b13ef2b7-c9c8-463f-b6be-d03cda855806@6c48a",
+        "b13ef2b7-c9c8-463f-b6be-d03cda855806@f9941",
+        "b5731a32-db6e-4d2c-8e7c-29a78ca86283",
+        "b5731a32-db6e-4d2c-8e7c-29a78ca86283@6c48a",
+        "b5731a32-db6e-4d2c-8e7c-29a78ca86283@f9941",
+        "ee95c149-0dd3-4459-b24f-26d27f26b720",
+        "ee95c149-0dd3-4459-b24f-26d27f26b720@6c48a",
+        "ee95c149-0dd3-4459-b24f-26d27f26b720@f9941"
+    ],
+    "paths": {
+        "b13ef2b7-c9c8-463f-b6be-d03cda855806": [
+            "bg_configure",
+            "cc.ImageAsset",
+            1
+        ],
+        "b13ef2b7-c9c8-463f-b6be-d03cda855806@6c48a": [
+            "bg_configure/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b13ef2b7-c9c8-463f-b6be-d03cda855806@f9941": [
+            "bg_configure/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "276279d5-c983-440e-b540-a156e1daeda9": [
+            "bg_configure_iPad",
+            "cc.ImageAsset",
+            1
+        ],
+        "276279d5-c983-440e-b540-a156e1daeda9@6c48a": [
+            "bg_configure_iPad/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "276279d5-c983-440e-b540-a156e1daeda9@f9941": [
+            "bg_configure_iPad/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b5731a32-db6e-4d2c-8e7c-29a78ca86283": [
+            "bg_configure_X",
+            "cc.ImageAsset",
+            1
+        ],
+        "b5731a32-db6e-4d2c-8e7c-29a78ca86283@6c48a": [
+            "bg_configure_X/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b5731a32-db6e-4d2c-8e7c-29a78ca86283@f9941": [
+            "bg_configure_X/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ee95c149-0dd3-4459-b24f-26d27f26b720": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "ee95c149-0dd3-4459-b24f-26d27f26b720@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ee95c149-0dd3-4459-b24f-26d27f26b720@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "08e4de53b": [
+            "276279d5-c983-440e-b540-a156e1daeda9@6c48a",
+            "b13ef2b7-c9c8-463f-b6be-d03cda855806@6c48a",
+            "b5731a32-db6e-4d2c-8e7c-29a78ca86283@6c48a",
+            "ee95c149-0dd3-4459-b24f-26d27f26b720@6c48a"
+        ]
+    },
+    "versions": {
+        "import": [
+            "08e4de53b",
+            "166e8",
+            "276279d5-c983-440e-b540-a156e1daeda9",
+            "a2533",
+            "276279d5-c983-440e-b540-a156e1daeda9@f9941",
+            "71f05",
+            "b13ef2b7-c9c8-463f-b6be-d03cda855806",
+            "a2533",
+            "b13ef2b7-c9c8-463f-b6be-d03cda855806@f9941",
+            "ddd3e",
+            "b5731a32-db6e-4d2c-8e7c-29a78ca86283",
+            "a2533",
+            "b5731a32-db6e-4d2c-8e7c-29a78ca86283@f9941",
+            "da665",
+            "ee95c149-0dd3-4459-b24f-26d27f26b720",
+            "a2533",
+            "ee95c149-0dd3-4459-b24f-26d27f26b720@f9941",
+            "0a484"
+        ],
+        "native": [
+            "276279d5-c983-440e-b540-a156e1daeda9",
+            "de3b1",
+            "b13ef2b7-c9c8-463f-b6be-d03cda855806",
+            "e0309",
+            "b5731a32-db6e-4d2c-8e7c-29a78ca86283",
+            "7f71c",
+            "ee95c149-0dd3-4459-b24f-26d27f26b720",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

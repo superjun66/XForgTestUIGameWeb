@@ -1,0 +1,36 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "page-room",
+    "deps": [
+        "page-room-res"
+    ],
+    "uuids": [
+        "6e73d0af-bd06-4aa9-8877-8ab0e7241dfb",
+        "aecb8e2a-1f3c-446b-b895-2139ecec5ef2@f9941"
+    ],
+    "paths": {
+        "6e73d0af-bd06-4aa9-8877-8ab0e7241dfb": [
+            "PageRoom",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "6e73d0af-bd06-4aa9-8877-8ab0e7241dfb",
+            "b360e"
+        ],
+        "native": []
+    },
+    "redirect": [
+        "aecb8e2a-1f3c-446b-b895-2139ecec5ef2@f9941",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

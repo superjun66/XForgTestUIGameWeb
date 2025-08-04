@@ -1,0 +1,74 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "pop-tip",
+    "deps": [
+        "pop-tip-res"
+    ],
+    "uuids": [
+        "00c721fd-27f2-4faa-ab09-68ec1172bd93@f9941",
+        "0a6a6b986",
+        "0fa406157",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "9702d80b-ded0-42fa-addd-2c1695269330"
+    ],
+    "paths": {
+        "9702d80b-ded0-42fa-addd-2c1695269330": [
+            "PopTip",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0a6a6b986": [
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
+            "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a"
+        ],
+        "0fa406157": [
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+            "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+            "9702d80b-ded0-42fa-addd-2c1695269330"
+        ]
+    },
+    "versions": {
+        "import": [
+            "0a6a6b986",
+            "e7eab",
+            "0fa406157",
+            "78943",
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+            "a2533",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+            "a2533",
+            "951249e0-9f16-456d-8b85-a6ca954da16b",
+            "a2533"
+        ],
+        "native": [
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+            "90cf4",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+            "83fcc",
+            "951249e0-9f16-456d-8b85-a6ca954da16b",
+            "c06a9"
+        ]
+    },
+    "redirect": [
+        "00c721fd-27f2-4faa-ab09-68ec1172bd93@f9941",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

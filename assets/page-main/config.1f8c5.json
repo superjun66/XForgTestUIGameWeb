@@ -1,0 +1,52 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "page-main",
+    "deps": [
+        "resources"
+    ],
+    "uuids": [
+        "082043b0a",
+        "11ba86eb-78b7-41b4-8e9e-10f29f38cf79",
+        "11ba86eb-78b7-41b4-8e9e-10f29f38cf79@6c48a",
+        "11ba86eb-78b7-41b4-8e9e-10f29f38cf79@f9941",
+        "5911fd9e-79b3-412f-8a15-c812e1c64bc9",
+        "652394d9-e702-4fad-91f1-f68b5ef96c20@f9941"
+    ],
+    "paths": {
+        "5911fd9e-79b3-412f-8a15-c812e1c64bc9": [
+            "PageMain",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "082043b0a": [
+            "11ba86eb-78b7-41b4-8e9e-10f29f38cf79@f9941",
+            "5911fd9e-79b3-412f-8a15-c812e1c64bc9"
+        ]
+    },
+    "versions": {
+        "import": [
+            "082043b0a",
+            "448d9",
+            "11ba86eb-78b7-41b4-8e9e-10f29f38cf79",
+            "a2533",
+            "11ba86eb-78b7-41b4-8e9e-10f29f38cf79@6c48a",
+            "0ef42"
+        ],
+        "native": [
+            "11ba86eb-78b7-41b4-8e9e-10f29f38cf79",
+            "8e769"
+        ]
+    },
+    "redirect": [
+        "652394d9-e702-4fad-91f1-f68b5ef96c20@f9941",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

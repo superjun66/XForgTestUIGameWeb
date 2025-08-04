@@ -1,0 +1,49 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "pop-tip-res",
+    "deps": [],
+    "uuids": [
+        "00c721fd-27f2-4faa-ab09-68ec1172bd93",
+        "00c721fd-27f2-4faa-ab09-68ec1172bd93@6c48a",
+        "00c721fd-27f2-4faa-ab09-68ec1172bd93@f9941"
+    ],
+    "paths": {
+        "00c721fd-27f2-4faa-ab09-68ec1172bd93": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "00c721fd-27f2-4faa-ab09-68ec1172bd93@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "00c721fd-27f2-4faa-ab09-68ec1172bd93@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "00c721fd-27f2-4faa-ab09-68ec1172bd93",
+            "a2533",
+            "00c721fd-27f2-4faa-ab09-68ec1172bd93@6c48a",
+            "d0baa",
+            "00c721fd-27f2-4faa-ab09-68ec1172bd93@f9941",
+            "739f7"
+        ],
+        "native": [
+            "00c721fd-27f2-4faa-ab09-68ec1172bd93",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

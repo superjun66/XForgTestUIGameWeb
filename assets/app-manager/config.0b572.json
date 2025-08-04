@@ -1,0 +1,38 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "app-manager",
+    "deps": [],
+    "uuids": [
+        "7e784551-d32c-4c2b-b9dd-9ded47285e5f",
+        "989cf1cf-2ee5-4329-8df4-b9b3eb3196f2"
+    ],
+    "paths": {
+        "989cf1cf-2ee5-4329-8df4-b9b3eb3196f2": [
+            "api/ApiManager",
+            "cc.Prefab",
+            1
+        ],
+        "7e784551-d32c-4c2b-b9dd-9ded47285e5f": [
+            "util/UtilManager",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "7e784551-d32c-4c2b-b9dd-9ded47285e5f",
+            "6b486",
+            "989cf1cf-2ee5-4329-8df4-b9b3eb3196f2",
+            "6b451"
+        ],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

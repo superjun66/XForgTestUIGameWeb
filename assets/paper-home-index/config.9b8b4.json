@@ -1,0 +1,107 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "paper-home-index",
+    "deps": [
+        "paper-home-index-res"
+    ],
+    "uuids": [
+        "065e133f1",
+        "09dcae3e5",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "4fda624b-8f22-4142-994b-8c57fb07e1a1",
+        "4fda624b-8f22-4142-994b-8c57fb07e1a1@6c48a",
+        "4fda624b-8f22-4142-994b-8c57fb07e1a1@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "5b68863b-31cd-4167-8582-ea1a0d60ab09@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "ac1594b4-67a6-4fe7-a21d-86b7db75b4e0@f9941",
+        "afc47931-f066-46b0-90be-9fe61f213428",
+        "afc47931-f066-46b0-90be-9fe61f213428@6c48a",
+        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+        "c952422d-b016-472e-a30d-0ab896f5b43f@f9941",
+        "d2294247-62bb-4c7b-b368-e42f2aec3390",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@6c48a",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941"
+    ],
+    "paths": {
+        "d2294247-62bb-4c7b-b368-e42f2aec3390": [
+            "PaperHomeIndex",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "09dcae3e5": [
+            "4fda624b-8f22-4142-994b-8c57fb07e1a1@6c48a",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
+            "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a",
+            "afc47931-f066-46b0-90be-9fe61f213428@6c48a",
+            "ffb88a8f-af62-48f4-8f1d-3cb606443a43@6c48a"
+        ],
+        "065e133f1": [
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+            "4fda624b-8f22-4142-994b-8c57fb07e1a1@f9941",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+            "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+            "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+            "d2294247-62bb-4c7b-b368-e42f2aec3390",
+            "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941"
+        ]
+    },
+    "versions": {
+        "import": [
+            "065e133f1",
+            "e3116",
+            "09dcae3e5",
+            "6bf7e",
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+            "a2533",
+            "4fda624b-8f22-4142-994b-8c57fb07e1a1",
+            "a2533",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+            "a2533",
+            "951249e0-9f16-456d-8b85-a6ca954da16b",
+            "a2533",
+            "afc47931-f066-46b0-90be-9fe61f213428",
+            "a2533",
+            "ffb88a8f-af62-48f4-8f1d-3cb606443a43",
+            "a2533"
+        ],
+        "native": [
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+            "90cf4",
+            "4fda624b-8f22-4142-994b-8c57fb07e1a1",
+            "6422c",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+            "83fcc",
+            "951249e0-9f16-456d-8b85-a6ca954da16b",
+            "c06a9",
+            "afc47931-f066-46b0-90be-9fe61f213428",
+            "d55c2",
+            "ffb88a8f-af62-48f4-8f1d-3cb606443a43",
+            "6d707"
+        ]
+    },
+    "redirect": [
+        "5b68863b-31cd-4167-8582-ea1a0d60ab09@f9941",
+        "0",
+        "ac1594b4-67a6-4fe7-a21d-86b7db75b4e0@f9941",
+        "0",
+        "c952422d-b016-472e-a30d-0ab896f5b43f@f9941",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

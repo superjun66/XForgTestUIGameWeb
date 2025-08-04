@@ -1,0 +1,33 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "app-sound",
+    "deps": [],
+    "uuids": [
+        "b7c2bd4d-731b-4652-bb85-86e1593ad2a6"
+    ],
+    "paths": {
+        "b7c2bd4d-731b-4652-bb85-86e1593ad2a6": [
+            "effect/button",
+            "cc.AudioClip",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "b7c2bd4d-731b-4652-bb85-86e1593ad2a6",
+            "6e135"
+        ],
+        "native": [
+            "b7c2bd4d-731b-4652-bb85-86e1593ad2a6",
+            "c2bea"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

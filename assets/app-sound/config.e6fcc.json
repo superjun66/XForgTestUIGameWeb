@@ -1,1 +1,0 @@
-{"importBase":"import","nativeBase":"native","name":"app-sound","deps":[],"uuids":["b7wr1NcxtGUruFhuFZOtKm"],"paths":{"0":["effect/button",0,1]},"scenes":{},"packs":{},"versions":{"import":[0,"6e135"],"native":[0,"c2bea"]},"redirect":[],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.AudioClip"]}

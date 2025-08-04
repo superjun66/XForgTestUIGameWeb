@@ -1,0 +1,1 @@
+{"importBase":"import","nativeBase":"native","name":"page-room","deps":["page-room-res"],"uuids":["6ec9CvvQZKqYh3irDnJB37","aey44qHzxEa7iVITns7F7y@f9941"],"paths":{"0":["PageRoom",0,1]},"scenes":{},"packs":{},"versions":{"import":[0,"40db5"],"native":[]},"redirect":[1,"0"],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.Prefab"]}
